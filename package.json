@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "truffle test"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1",
+    "mocha-junit-reporter": "^2.0.0",
+    "mocha-multi-reporters": "^1.5.1",
+    "truffle": "^5.4.9"
+  }
+}
