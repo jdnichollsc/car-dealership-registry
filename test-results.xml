@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.5910" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-06T16:28:05" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="TestCar" timestamp="2022-03-06T16:28:05" tests="7" time="0.5910" failures="0">
+    <testcase name="testIfNoVisitsInitially" time="0.1010" classname="TestCar testIfNoVisitsInitially">
+    </testcase>
+    <testcase name="testIfVisitIsRegistered" time="0.1100" classname="TestCar testIfVisitIsRegistered">
+    </testcase>
+    <testcase name="testIfNotOverhauledInitially" time="0.0760" classname="TestCar testIfNotOverhauledInitially">
+    </testcase>
+    <testcase name="testIfCarHasBeenOverhauled" time="0.0820" classname="TestCar testIfCarHasBeenOverhauled">
+    </testcase>
+    <testcase name="testIfCarHasNotBeenOverhauled" time="0.0770" classname="TestCar testIfCarHasNotBeenOverhauled">
+    </testcase>
+    <testcase name="testInitialLastKnowMileage" time="0.0690" classname="TestCar testInitialLastKnowMileage">
+    </testcase>
+    <testcase name="testLastKnownMileage" time="0.0760" classname="TestCar testLastKnownMileage">
+    </testcase>
+  </testsuite>
+</testsuites>
